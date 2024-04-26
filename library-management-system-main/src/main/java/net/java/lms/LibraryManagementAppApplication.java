@@ -1,4 +1,4 @@
-package net.javaguides.lms;
+package net.java.lms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
